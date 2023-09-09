@@ -1,2 +1,6 @@
-# Mi-portafolio
-Portafolio del video, creacion de portafolio HTML5 y CSS3
+# Instalacion de GIT
+* Desde la terminal 🖥️
+* sudo apt update
+* sudo apt-get install git-all
+* git version
+
